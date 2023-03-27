@@ -15,6 +15,10 @@ const Analytics = () => {
       />
       <Script
         strategy="afterInteractive"
+        src={`https://www.googleoptimize.com/optimize.js?id=OPT-NTLHCG7`}
+      />
+      <Script
+        strategy="afterInteractive"
         src={`https://www.googletagmanager.com/gtag/js?id=G-SCBC1K6G1M`}
       />
     </>
